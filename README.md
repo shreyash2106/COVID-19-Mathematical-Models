@@ -9,4 +9,4 @@ an exponential fit.
 
 ![Coronavirus in Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/COVID-19_Outbreak_Cases_in_Italy_%28Density%29.svg/440px-COVID-19_Outbreak_Cases_in_Italy_%28Density%29.svg.png)
 
-![Coronvirus Predictions in Italy] (https://www.researchgate.net/profile/Milan_Batista/publication/339240777/figure/fig17/AS:866345474326530@1583564265997/Predicted-evaluation-of-the-coronavirus-epidemic-in-Italy-data-up-to-6Mar-2020_Q320.jpg)
+![Coronavirus Predictions in Italy](https://www.researchgate.net/profile/Milan_Batista/publication/339240777/figure/fig17/AS:866345474326530@1583564265997/Predicted-evaluation-of-the-coronavirus-epidemic-in-Italy-data-up-to-6Mar-2020_Q320.jpg)
