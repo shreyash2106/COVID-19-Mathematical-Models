@@ -6,3 +6,4 @@ and predict the growth rate of the virus. I used two growth functions: logistic 
 notebook. 
 I used a least squares estimate to calculate the error and came to the conclusion that a logistic fit is better than 
 an exponential fit. 
+
